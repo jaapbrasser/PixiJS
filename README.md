@@ -45,5 +45,6 @@ Click the canvas to activate pointer lock.
 ### Python (recommended)
 ```bash
 python -m http.server
+```
 
 Then open: http://localhost:8000
